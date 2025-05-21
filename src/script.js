@@ -1,3 +1,4 @@
 function helloMessage(){
-    alert('Здарова');
+    alert('Хеллоу');
+    alert('Как дела?');
 }
