@@ -1,4 +1,4 @@
 function helloMessage(){
     alert('Хеллоу');
-    alert('Как дела?');
+    alert('Как дела? Пока не родила?');
 }
