@@ -3,5 +3,5 @@ function helloMessage(){
     alert('Как дела? Пока не родила?');
 }
 function goodbyeMessage(){
-    aler('Пока');
+    alert('Пока');
 }
