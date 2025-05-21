@@ -1,0 +1,3 @@
+function helloMessage(){
+    alert('Здарова');
+}
