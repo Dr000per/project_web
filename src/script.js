@@ -5,3 +5,6 @@ function helloMessage(){
 function goodbyeMessage(){
     alert('Пока');
 }
+function hiMan(){
+    alert('Hi chel!');
+}
