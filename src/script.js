@@ -4,4 +4,5 @@ function helloMessage(){
 }
 function goodbyeMessage(){
     alert('Пока');
+    alert('конец');
 }
