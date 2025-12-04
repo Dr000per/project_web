@@ -4,6 +4,7 @@ function helloMessage(){
 }
 function goodbyeMessage(){
     alert('Пока');
+    alert('конец');
 }
 function hiMan(){
     alert('Hi chel!');
