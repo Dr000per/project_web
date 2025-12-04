@@ -8,3 +8,6 @@ function goodbyeMessage(){
 function hiMan(){
     alert('Hi chel!');
 }
+function zalupa(){
+    alert('Хуй, залупа, пенис');
+}
